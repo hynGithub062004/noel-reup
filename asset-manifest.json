@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/noel-reup/static/css/main.fbe36274.css",
+    "main.js": "/noel-reup/static/js/main.6d1f6be4.js",
+    "static/media/banner.png": "/noel-reup/static/media/banner.bce678d8b566138551e2.png",
+    "static/media/video1.mp4": "/noel-reup/static/media/video1.ef35b1b7812f5076a0e3.mp4",
+    "static/media/evid3.mp4": "/noel-reup/static/media/evid3.13b160d3ec819b5d47e3.mp4",
+    "static/media/timeline.jpg": "/noel-reup/static/media/timeline.6eced04316d49de58d3d.jpg",
+    "static/media/logo1.png": "/noel-reup/static/media/logo1.a4d65a640faf3794f8fe.png",
+    "index.html": "/noel-reup/index.html",
+    "main.fbe36274.css.map": "/noel-reup/static/css/main.fbe36274.css.map",
+    "main.6d1f6be4.js.map": "/noel-reup/static/js/main.6d1f6be4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbe36274.css",
+    "static/js/main.6d1f6be4.js"
+  ]
+}
